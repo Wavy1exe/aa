@@ -1,0 +1,159 @@
+.box1{
+	height: 800px;
+	width: 1420px;
+	background-color: rgb(5, 5, 99);
+	border-radius: 20px;
+}
+.bord1{
+	width: 360px;
+	height: 55px;
+	border: rgb(51, 110, 238) solid 2px;
+	position: absolute;
+	top: 390px;
+	left: 100px;
+	border-radius: 7px;
+}
+.child{
+margin-left: 70px;
+padding: 40px;
+}
+h2{
+	font-size: 45px;
+
+}
+.child9{
+	position: absolute;
+	top: 290px;
+}
+.child1{
+	position: absolute;
+	top: 303px;
+	color: lightgray;
+	left: 185px;
+}
+.child2{
+	position: absolute;
+	top: 382px;
+	color: lightgray;
+	left: 185px;
+}
+
+.child3{
+	position: absolute;
+	top: 470px;
+	color:lightgray;
+	left: 185px;
+}
+img{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 320px;
+	left: 115px;
+}
+.img1{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 404px;
+	left: 115px;
+}
+.img2{
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 489px;
+	left: 115px;
+}
+h4{
+	font-weight: 200;
+}
+.img3{
+	width: 28px;
+	height: 28px;
+	position: absolute;
+	top: 720px;
+}
+.img4{
+	width: 28px;
+	height: 28px;
+	position: absolute;
+	top: 720px;
+	left: 240px;
+}
+.img5{
+	width: 28px;
+	height: 28px;
+	position: absolute;
+	top: 720px;
+	left: 400px;
+}
+h5{
+	font-size: 16px;
+}
+.box2{
+	height: 650px;
+	width: 500px;
+	background-color: white;
+	position: absolute;
+	left: 800PX;
+	top: 60px;
+	border-radius: 15px;
+}
+input{
+	height: 53px;
+	width: 400px;
+	border-radius: 7px;
+}
+.input1{
+	position: absolute;
+	top:80px;
+	left: 40px;
+	border: gray solid 1px;
+
+}
+.input2{
+	position:absolute;
+	top: 190px;
+	left: 40px;
+	border: blue solid 2px;
+	border-radius:7px;
+}
+.input3{
+	position: absolute;
+	top: 310px;
+	left: 40px;
+	height: 200px;
+	background-color: rgb(243, 241, 241);
+}
+
+.label1{
+	position:absolute;
+	top: 50px;
+	left: 40px;
+}
+
+.label2{
+	position:absolute;
+	top: 165px;
+	left: 40px;
+}
+.label3{
+	position:absolute;
+	top: 285px;
+	left: 40px;
+}
+h4{
+	font-size: 19px;
+}
+button{
+	height: 53px;
+	width: 220px;
+	background-color:rgb(55, 109, 211) ;
+	position: absolute;
+	top: 550px;
+	left: 230px;
+	color: white;
+	border-radius: 10px;
+	font-size: 15px;
+}
